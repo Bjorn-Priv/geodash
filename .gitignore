@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+*.cmake
+CMakeCache.txt
+CMakeLists.txt
+CMakeFiles*
+rpg
